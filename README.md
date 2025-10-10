@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="/favicon.png">
+
 # Personal Website — Alina Mirét Shah
 
 This repository contains the source code for my personal website, hosted at  
