@@ -1,5 +1,6 @@
 # Alina Mirét Shah 
 [amshah1022.github.io](https://amshah1022.github.io)
+
 *Cornell University · B.A. Computer Science*  
 
 Building reproducible evaluation and interpretability systems for reliable, transparent AI.  
