@@ -14,7 +14,7 @@ If you’re curious about how it’s built, keep reading below.
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 - **Platform:** [GitHub Pages](https://pages.github.com/)  
 - **Language:** Markdown (`index.md`)  
 - **Theme:** Minimal (Jekyll)  
@@ -22,6 +22,7 @@ If you’re curious about how it’s built, keep reading below.
 ---
 
 ## 📁 File Structure
+'''
 amshah1022.github.io/
 │
 ├── index.md # main website content
