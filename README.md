@@ -21,18 +21,17 @@ If you’re curious about how it’s built, keep reading below.
 
 ---
 
-## 📁 File Structure
-'''
+## File Structure
+```
 amshah1022.github.io/
-│
-├── index.md # main website content
-├── Alina_Miret_Shah_Resume.pdf
-└── README.md # this file
-
-
+├── index.md
+├── _config.yml
+├── README.md
+└── Alina_Miret_Shah_Resume.pdf
+```
 ---
 
-## 🧠 Author
+## Author
 **Alina Mirét Shah**  
 Cornell University · B.A. Computer Science  
 [LinkedIn](https://linkedin.com/in/alinamshah) · [Email](mailto:alina.shah1022@gmail.com)
