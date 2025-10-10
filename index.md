@@ -15,7 +15,7 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 
 ## Current Projects  
 - **Truth Layer** – Evidence-grounded evaluation framework that defines truthfulness as alignment with verifiable evidence.  
-- **MedSim AI** – Rubric-anchored dialogic feedback chatbot (Cornell–Yale–UCSF) for consistent medical-education feedback.  
+- **MedSimAI (Future of Learning Lab)** – Rubric-anchored dialogic feedback chatbot (Cornell–Yale–UCSF) for consistent medical-education feedback.  
 - **ProbeEng (LAISR)** – Ensemble of 1k+ probes mapping reliability signals across layers and token positions.  
 
 ---
@@ -29,7 +29,7 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 ---
 
 ## Affiliations  
-LAISR (Lionel Levine) · Future of Learning Lab · AIRLab · C2L  
+Long-term AI Safety Research Lab (Lionel Levine) · Future of Learning Lab · AIRLab · C2L  
 
 Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Chin)  
 
