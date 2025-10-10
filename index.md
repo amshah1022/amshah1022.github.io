@@ -28,7 +28,8 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 ---
 
 ## Affiliations
-Future of Learning Lab (René Kizilcec) · LAISR (Cornell, Lionel Levine) · AIRLab (Cornell) · C2L (Cornell)
+LAISR (Lionel Levine) · Future of Learning Lab · AIRLab · C2L  
+Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Chin)
 
 ---
 
