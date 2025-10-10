@@ -29,7 +29,7 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 ---
 
 ## Affiliations  
-Long-term AI Safety Research Lab (Lionel Levine) · Future of Learning Lab · AIRLab · C2L  
+Long-term AI Safety Research Lab (Lionel Levine) · Future of Learning Lab · AI and Robotics Lab · Culture and Computation Lab 
 
 Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Chin)  
 
