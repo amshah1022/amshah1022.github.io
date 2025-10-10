@@ -27,7 +27,7 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 ---
 
 ## 📄 Documents
-- [Resume (PDF)](Alina_Miret_Shah_Resume.pdf)
+- [Resume (PDF)](https://github.com/amshah1022/amshah1022.github.io/blob/85ba0fd98df482c65aaa8af95de51ae30cefaea5/Alina_Miret_Shah_Resume.pdf)
 
 ---
 
