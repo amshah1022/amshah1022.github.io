@@ -3,7 +3,7 @@
 
 *Cornell University · B.A. Computer Science*  
 
-Building reproducible evaluation and interpretability systems for reliable, transparent AI.  
+Building reproducible evaluation and interpretability systems for transparent, reliable AI.
 
 ---
 
@@ -29,7 +29,17 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 ---
 
 ## Affiliations  
-Long-term AI Safety Research Lab (Lionel Levine) · Future of Learning Lab · AI and Robotics Lab · Culture and Computation Lab 
+
+Conducting multi-lab research on evaluation, interpretability, and human-aligned reliability systems.
+
+**Cornell University**
+Long-Term AI Safety Research Lab (Lionel Levine) — Interpretability reliability and meta-probing infrastructure; developing evaluation methods for model understanding tools.
+
+Future of Learning Lab (René Kizilcec) — Rubric-anchored evaluation pipelines and dialogic feedback systems for reliable AI in education.
+
+AI & Robotics Lab (Angelique Taylor) — Systematic review of multi-agent reinforcement learning applications in healthcare.
+
+Culture & Computation Lab (David Mimno & Mathew Wilkens) — Representation alignment and literary corpus analysis using multimodal embeddings.
 
 Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Chin)  
 
@@ -54,3 +64,4 @@ My goal is to bridge mechanistic interpretability, evidence-grounded NLP, and hu
 ---
 
 _Last updated: October 2025_
+_Site maintained by Alina M. Shah · amshah1022 @ gmail.com_
