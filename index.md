@@ -8,7 +8,7 @@ Building reproducible evaluation and interpretability systems for transparent, r
 ---
 
 ## Research Statement  
-**[Triangulating AI Reliability: Evidence, Mechanisms, and Human Judgment](https://github.com/amshah1022/ai-reliability-agenda/blob/5c996fb8d73703d2632b70a5b8f6aa240339ef27/Triangulating_AI_Reliability___Statement_of_Direction__Alina_Shah_.pdf)**  
+**[Triangulating AI Reliability: Evidence, Mechanisms, and Human Judgment](https://github.com/amshah1022/ai-reliability-agenda.git)**  
 Outlines my direction toward a reliability layer for AI safety, integrating evidence-grounded evaluation, mechanistic interpretability, and human/rubric adjudication.  
 
 ---
