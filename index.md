@@ -48,7 +48,7 @@ Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Ch
 ---
 
 ## About Me  
-I’m an AI researcher focused on developing auditable, evidence-based evaluation systems that make model reliability measurable.  
+I’m a researcher focused on developing auditable, evidence-based evaluation systems that make model reliability measurable. 
 My goal is to bridge mechanistic interpretability, evidence-grounded NLP, and human-aligned evaluation to build transparent AI pipelines ready for oversight and safety-critical domains.  
 
 ---
