@@ -33,6 +33,7 @@ Outlines my direction toward a reliability layer for AI safety, integrating evid
 Conducting multi-lab research on evaluation, interpretability, and human-aligned reliability systems.
 
 **Cornell University**
+
 Long-Term AI Safety Research Lab (Lionel Levine) — Interpretability reliability and meta-probing infrastructure; developing evaluation methods for model understanding tools.
 
 Future of Learning Lab (René Kizilcec) — Rubric-anchored evaluation pipelines and dialogic feedback systems for reliable AI in education.
