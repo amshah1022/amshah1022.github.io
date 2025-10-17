@@ -1,4 +1,6 @@
-<link rel="icon" type="image/png" href="/favicon.png">
+---
+layout: default
+---
 
 # Personal Website — Alina Mirét Shah
 
