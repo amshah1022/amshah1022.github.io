@@ -47,7 +47,7 @@ Former: Horizon Therapeutics · Stripe · Discovery Partners Institute (Alvin Ch
 ---
 
 ## Documents  
-- [Resume (PDF)](https://github.com/amshah1022/amshah1022.github.io/blob/main/Alina_Miret_Shah_Resume.pdf)  
+- [Resume (PDF)](https://drive.google.com/file/d/1m4v6aUWAaKx_cJkmZwQk7uspPCZOnEwg/view?usp=sharing)  
 
 ---
 
